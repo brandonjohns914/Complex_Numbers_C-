@@ -1,0 +1,15 @@
+(39+2i)
+(+5-13i)
+(+7-28i)
+(+1+3i)
+(+2i)
+(+3.07692i)
+(+2.3i)
+Incorrect format. Operator not detected.
+Incorrect format: No number detected.
+Incorrect format: Already read imaginary part.
+Incorrect format: Already read real part.
+(-1.20755-0.226415i)
+(+39+2i)
+(+5-13i)
+(+7-28i)
